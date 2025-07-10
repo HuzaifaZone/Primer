@@ -1,5 +1,5 @@
 using System;
-
+// This program checks if a number is prime or not.
 class Primer
 {
     static void Main(string[] args)
