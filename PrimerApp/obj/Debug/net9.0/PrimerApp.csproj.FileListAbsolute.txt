@@ -1,0 +1,5 @@
+D:\Work\CSharp\PrimerApp\obj\Debug\net9.0\PrimerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\CSharp\PrimerApp\obj\Debug\net9.0\PrimerApp.AssemblyInfoInputs.cache
+D:\Work\CSharp\PrimerApp\obj\Debug\net9.0\PrimerApp.AssemblyInfo.cs
+D:\Work\CSharp\PrimerApp\obj\Debug\net9.0\PrimerApp.csproj.CoreCompileInputs.cache
+D:\Work\CSharp\PrimerApp\obj\Debug\net9.0\PrimerApp.sourcelink.json
